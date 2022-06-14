@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-
 from PIL import Image
 import os
 
 # Origin folder 
-folder_path = "./supplier-data/images/"
+folder_path = "./foldername/"
 
 # Loop through the  directory for images
 for image in os.listdir(folder_path):
