@@ -6,7 +6,7 @@ folder_path = "./foldername/"
 img_files = []
 url = "http://localhost/name/"
 
-# Loop through files in 'directory'
+""" Loop through files in 'directory' """
 for img in os.listdir(folder_path):
      if img == img[:-4] + "jpeg":
        path = folder_path + img
