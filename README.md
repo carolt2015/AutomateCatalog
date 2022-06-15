@@ -1,5 +1,5 @@
 # AutomateCatalog
-Automate updating catalog information for an online store. Develop a system that will update the catalog information with data provided by the suppliers for an online store.
+Automate updating catalog information for an online store. Develop a system that will update the catalog information with data provided by the suppliers for an online store. This project is a part of the coursework from Google IT Automation with Python from Coursera.
 
 <ins>**Project tasks:**</ins>
 
